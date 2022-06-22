@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **MalamTeam**
 
-- 🌱 I’m currently learning **JavaScript 3D Library**
+- ![image](https://user-images.githubusercontent.com/15310129/175020223-353abece-658b-418e-8fad-5bba774a02ee.png) Learning **JavaScript 3D Library**
 
 - 👯 I’m looking to collaborate on **R&D, JavaScript 3D Library**
 
