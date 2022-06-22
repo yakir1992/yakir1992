@@ -20,4 +20,9 @@
 <a href="https://www.linkedin.com/in/yakir1992/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yakir1992/" height="30" width="40" /></a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakir1992&show_icons=true&locale=en&layout=compact" alt="yakir1992" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakir1992&show_icons=true&locale=en" alt="yakir1992" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yakir1992&" alt="yakir1992" /></p>
 
