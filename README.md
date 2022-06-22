@@ -11,9 +11,10 @@
 
 [![Twitter Badge](https://img.shields.io/badge/-@yakir1992-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yakir1992)](https://twitter.com/yakir1992)  [![Linkedin Badge](https://img.shields.io/badge/-yakir1992-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakir1992/)  [![Mail Badge](https://img.shields.io/badge/-yakir1992-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yakir1992@gmail.com)
 
+<p align="center" dir="auto">
 
-<!--      -->
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakir1992&show_icons=true&locale=en&layout=compact" alt="yakir1992" /></p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yakir1992&show_icons=true&locale=en&layout=compact" alt="yakir1992">
+                                                                                                                                            </p>
     
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakir1992&show_icons=true&locale=en" alt="yakir1992" /></p>
 
