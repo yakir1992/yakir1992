@@ -10,7 +10,10 @@
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@yakir1992-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yakir1992)](https://twitter.com/yakir1992)  [![Linkedin Badge](https://img.shields.io/badge/-yakir1992-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakir1992/)  [![Mail Badge](https://img.shields.io/badge/-yakir1992-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yakir1992@gmail.com)
-<!--  -->
+
+<div dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/257458d59b5539d2b44375a032974913371af56bced44f9e6187bbbc4d685287/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f722d79616d26686964653d632532422532422c63253233267468656d653d636f62616c74266c616e67735f636f756e743d35266c61796f75743d636f6d70616374"><img width="350" align="center" src="https://camo.githubusercontent.com/257458d59b5539d2b44375a032974913371af56bced44f9e6187bbbc4d685287/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f722d79616d26686964653d632532422532422c63253233267468656d653d636f62616c74266c616e67735f636f756e743d35266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=or-yam&amp;hide=c%2B%2B,c%23&amp;theme=cobalt&amp;langs_count=5&amp;layout=compact" style="max-width: 100%;"></a>
+</div>
 
 <img width="350" align="center" src="[https://camo.githubusercontent.com/257458d59b5539d2b44375a032974913371af56bced44f9e6187bbbc4d685287/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6f722d79616d26686964653d632532422532422c63253233267468656d653d636f62616c74266c616e67735f636f756e743d35266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=or-yam&amp;hide=c%2B%2B,c%23&amp;theme=cobalt&amp;langs_count=5&amp;layout=compact](https://github-readme-stats.vercel.app/api/top-langs?username=yakir1992&show_icons=true&locale=en&layout=compact)" style="max-width: 100%;">
 
