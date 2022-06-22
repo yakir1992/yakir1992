@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **MalamTeam**
 
-- ![image](https://user-images.githubusercontent.com/15310129/175020223-353abece-658b-418e-8fad-5bba774a02ee.png) Learning **JavaScript 3D Library**
-
-- 👯 I’m looking to collaborate on **R&D, JavaScript 3D Library**
+- :mortar_board: Learning **JavaScript 3D Library**
 
 - 📫 You can reach me at: **yakir1992@gmail.com**
 
