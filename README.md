@@ -6,6 +6,10 @@
 <img src="https://camo.githubusercontent.com/39f8cdac5f73e564af4a29263fa5f02a07c40cb5feecbd8f1effdd0eba8136e0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c68746d6c2c6373732c6e6f64656a732c72656163742c6769742c7673636f6465267065726c696e653d34" data-canonical-src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,git,vscode&amp;perline=4"">
   </a>
     </p>
+ 
+ :mailbox: Reach me out!
+
+[![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yakir1992)](https://twitter.com/yakir1992) [![Mail Badge](https://img.shields.io/badge/-CoderOne-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/coderone) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakir1992/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/yakirbenharosh) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yakir1992@gmail.com)
     
  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakir1992&show_icons=true&locale=en&layout=compact" alt="yakir1992" /></p>
     
