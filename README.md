@@ -6,7 +6,7 @@
   </a>
     </p>
     
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakir1992&show_icons=true&locale=en&layout=compact" alt="yakir1992" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yakir1992&show_icons=true&locale=en&layout=compact" alt="yakir1992"style="max-width: 100%; /></p>
     
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yakir1992&show_icons=true&locale=en" alt="yakir1992" /></p>
 
