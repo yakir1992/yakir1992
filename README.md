@@ -18,5 +18,12 @@
 <a href="https://www.linkedin.com/in/yakir1992/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yakir1992/" height="30" width="40" /></a>
 </p>
 
+<img src="https://camo.githubusercontent.com/39f8cdac5f73e564af4a29263fa5f02a07c40cb5feecbd8f1effdd0eba8136e0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c68746d6c2c6373732c6e6f64656a732c72656163742c6769742c7673636f6465267065726c696e653d34" class="center">
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 
