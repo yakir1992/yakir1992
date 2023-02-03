@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yakir Ben Harosh</h1>
-<h3 align="center">A passionate Full Stack Developer from Israel</h3>
+<h3 align="center">A passionate DevOps & Full Stack Developer from Israel</h3>
 <h2 align="center"> Top Technologies </h2>
 <p align="center" dir="auto">
   <a href="https://skillicons.dev" rel="nofollow">
