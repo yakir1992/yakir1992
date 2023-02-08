@@ -1,38 +1,115 @@
-<h1 align="center">Hi 👋, I'm Yakir Ben Harush</h1>
-<h3 align="center">A passionate DevOps & Full Stack Developer from Israel</h3>
-<h2 align="center"> Top Technologies </h2>
-<p align="center" dir="auto">
-  <a href="https://skillicons.dev" rel="nofollow">
-<img src="https://camo.githubusercontent.com/39f8cdac5f73e564af4a29263fa5f02a07c40cb5feecbd8f1effdd0eba8136e0/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c74732c68746d6c2c6373732c6e6f64656a732c72656163742c6769742c7673636f6465267065726c696e653d34" data-canonical-src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,react,git,vscode&amp;perline=4"">
-  </a>
-    </p>
- 
- <p align="center" dir="auto">
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yakir1992&show_icons=true&locale=en&layout=compact" alt="yakir1992">        
- </p>
- 
-<p align="center" dir="auto">
-    <img src="https://github-readme-stats.vercel.app/api?username=yakir1992&show_icons=true&locale=en" alt="yakir1992">      
-  </p>
+### <div align="center">I'm Yakir, A Full-Time IT Administartor & Passionate about DevOps👨‍💻 </div>  
+  
 
-                                                                                                                                            
-:mailbox: Reach me out!
+- 🔭 I’m currently working on [MalamTeam](https://malamteam.com)  
+  
 
-[![Twitter Badge](https://img.shields.io/badge/-@yakir1992-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yakir1992)](https://twitter.com/yakir1992)  [![Linkedin Badge](https://img.shields.io/badge/-yakir1992-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yakir1992/)  [![Mail Badge](https://img.shields.io/badge/-yakir1992-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yakir1992@gmail.com)
+- 🌱 I’m currently learning Kubernetes and Artificial Intelligence  
+  
+
+- ❓ Ask me about anything related to DevOps stack and related technologies  
+  
+
+- ⚡ Fun fact: I'm playing for 2 decades Age of empires  
+  
+
+<br/>  
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yakir1992&label=Profile%20views&color=0e75b6&style=flat" alt="yakir1992" /> </p>
-
-- 🔭 I’m currently working on **MalamTeam**
-
-- :mortar_board: Learning **Artificial Intelligence (AI), Machine Learning (ML) – Integrating Intelligence **
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
 
+### Full Stack  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
+<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
+</div>
+
+</td><td valign="top" width="33%">
 
 
 
+</td><td valign="top" width="33%">
 
 
 
+### DevOps  
+<div align="center">  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.terraform.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/terraformio-icon.svg" alt="Terraform" height="50" /></a>  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://twitter.com/https://twitter.com/yakir1992" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/https://dev.to/yakir1992" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/yakir1992/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/yakir1992" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=yakir1992&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
