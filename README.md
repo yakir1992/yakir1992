@@ -8,6 +8,7 @@
 
 - 🔭 I’m currently working on [MalamTeam](https://malamteam.com)  
   
+-  🖥  You can see my works here [Yakir Protfolio](https://ybhp.netlify.app)  
 
 - 🌱 I’m currently learning Kubernetes and Artificial Intelligence  
   
