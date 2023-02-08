@@ -26,7 +26,7 @@
 
 - 🔭 I’m currently working on **MalamTeam**
 
-- :mortar_board: Learning **JavaScript 3D Library**
+- :mortar_board: Learning **Artificial Intelligence (AI), Machine Learning (ML) – Integrating Intelligence **
 
 
 
