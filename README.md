@@ -3,17 +3,17 @@
 </div>  
   
 
-### <div align="center">I'm Yakir, A Full-Time IT Administartor & Passionate about DevOps👨‍💻 </div>  
+### <div align="center">I'm Yakir, A Full-Time IT Administartor & Passionate about Full Stack👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on [MalamTeam](https://malamteam.com)  
   
 -  🖥  You can see my works here [Yakir Protfolio](https://ybhp.netlify.app)  
 
-- 🌱 I’m currently learning Kubernetes and Artificial Intelligence  
+- 🌱 I’m currently learning ML  
   
 
-- ❓ Ask me about anything related to DevOps stack and related technologies  
+- ❓ Ask me about anything related to Full stack / DevOps stack and related technologies  
   
 
 - ⚡ Fun fact: I'm playing for 2 decades Age of empires  
