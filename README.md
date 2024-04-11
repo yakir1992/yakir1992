@@ -1,5 +1,6 @@
-https://i.ibb.co/4KCctwB/header-1.png
-
+<div align="center">
+  <img src="https://i.ibb.co/4KCctwB/header-1.png" height="450"/>
+</div>
 ###
 
 <div align="center">
