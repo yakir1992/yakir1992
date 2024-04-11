@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://i.ibb.co/4KCctwB/header-1.png" height="450"/>
+  <img src="https://i.ibb.co/4KCctwB/header-1.png" height="250"/>
 </div>
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yakir1992&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
