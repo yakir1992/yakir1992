@@ -78,8 +78,4 @@
   <img src="https://profile-counter.glitch.me/yakir1992/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/yakir1992/yakir1992/output/snake.svg" alt="Snake animation" />
-
-###
+https://github.com/yakir1992/yakir1992/blob/output/github-contribution-grid-snake.gif
