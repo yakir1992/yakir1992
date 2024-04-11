@@ -78,4 +78,4 @@
   <img src="https://profile-counter.glitch.me/yakir1992/count.svg?"  />
 </div>
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/yakir1992/yakir1992/blob/output/github-contribution-grid-snake.gif)
