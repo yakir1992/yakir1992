@@ -75,4 +75,4 @@
 
 ###
 
-<img align="right" height="150" src="https://wallpapers-clan.com/wp-content/uploads/2023/01/naruto-gif-pfp-4.gif"  />
+<img align="center" height="150" src="https://wallpapers-clan.com/wp-content/uploads/2023/01/naruto-gif-pfp-4.gif"  />
