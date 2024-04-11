@@ -73,7 +73,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yakir1992/count.svg?"  />
-</div>
