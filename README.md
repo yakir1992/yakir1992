@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Yakir and I'm a Devops Engineer, from Israel</h1>
+
 
 ###
 
@@ -77,5 +77,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/yakir1992/count.svg?"  />
 </div>
-
-![snake gif](https://github.com/yakir1992/yakir1992/blob/output/github-contribution-grid-snake.gif)
