@@ -15,7 +15,7 @@
 
 ###
 
-<img align="right" height="150" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXRpOG8ycWdxaWswMWR4d2dtNDI0OGxtaWhsaDR5OWw2enN2ODR6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378bFG2RkMIAKDW8/giphy.gif](https://wallpapers-clan.com/wp-content/uploads/2023/01/naruto-gif-pfp-4.gif)"  />
+<img align="right" height="150" src="https://wallpapers-clan.com/wp-content/uploads/2023/01/naruto-gif-pfp-4.gif"  />
 
 ###
 
