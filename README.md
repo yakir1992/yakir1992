@@ -74,14 +74,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/yakir1992/yakir1992/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/yakir1992/count.svg?"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/yakir1992/yakir1992/output/snake.svg" alt="Snake animation" />
 
 ###
