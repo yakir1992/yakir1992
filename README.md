@@ -76,3 +76,8 @@
 ###
 
 <img align="center" height="150" src="https://wallpapers-clan.com/wp-content/uploads/2023/01/naruto-gif-pfp-4.gif"  />
+
+### 
+<img src="https://raw.githubusercontent.com/yakir1992/yakir1992/output/snake.svg" alt="Snake animation" />
+
+###
