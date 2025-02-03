@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jenkins/D24939" height="40" alt="jenkins logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"  />
+  <img src="[https://cdn.simpleicons.org/amazonaws/232F3E](https://www.svgrepo.com/show/353443/aws.svg)" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
